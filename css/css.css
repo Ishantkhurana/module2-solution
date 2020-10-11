@@ -1,0 +1,85 @@
+#alpha{
+    border: 3px solid black;
+    padding: 0px;
+    text-align: justify;
+    font-size: 18px;
+    background-color: lightgray;
+    padding:0px 0px 0px 8px;
+    margin-bottom: 15px;
+    margin-top: 0px;
+}
+#alpha p{
+    padding-right: 8px;
+}
+.head1{
+    padding-top:0px;
+    margin-right: 0px; 
+}
+.head1 h3{
+     margin-top: 0px;
+      border:3px solid black;
+   background-color: lightpink;
+    text-align: centre;
+    border-width: 0px 0px 3px 3px;
+     padding-left:30px;
+   
+}
+#beta{   
+   border: 3px solid black;
+    padding: 0px;
+    text-align: justify;
+    font-size: 18px;
+    background-color: lightgray;
+    padding:0px 0px 0px 8px;
+    margin-left:0px;
+    margin-bottom: 15px;
+}
+.head2{
+    padding-top:0px;
+       margin-right: 0px; 
+}
+.head2 h3{
+       border:3px solid black;
+   background-color: lightcoral;
+        border-width: 0px 0px 3px 3px;
+    color: white;
+    text-align: centre; 
+       padding-left:30px;
+    margin-top: 0px;
+       margin-right: 0px; 
+}
+
+#beta p{
+    padding-right: 8px;
+} 
+#gama{
+    border: 3px solid black;
+    padding: 0px;
+    text-align: justify;
+    font-size: 18px;
+    background-color: lightgray;
+   padding:0px 0px 0px 8px;
+    margin-left:0px;
+    margin-bottom: 15px;
+}
+.head3{
+       margin-right: 0px; 
+    padding-top:0px;
+}
+.head3 h3{
+         border:3px solid black;
+   background-color: khaki;
+    text-align: centre;
+        border-width: 0px 0px 3px 3px;
+    padding-left:30px;
+    margin-top: 0px;
+       margin-right: 0px;
+}
+#gama p{
+    padding-right: 8px;
+}
+h2{
+    text-align: center;
+    width: 100%;
+    font-size: 31px;
+}
